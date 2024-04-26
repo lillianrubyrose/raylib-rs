@@ -1,0 +1,4 @@
+[submodule "raylib-rs-sys/raylib"]
+	path = raylib-rs-sys/raylib
+	url = https://github.com/lilyrrose/raylib5-branch.git
+	branch = v5
